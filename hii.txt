@@ -1,0 +1,5 @@
+<<<<<<< Updated upstream
+abcdefghijklmnopqrstuvwxyz
+=======
+gredjhhgfgb
+>>>>>>> Stashed changes
